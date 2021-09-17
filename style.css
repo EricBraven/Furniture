@@ -206,16 +206,17 @@ body{
     }
 
     .container ul li ul{
-        top:45vh;
+        /* top:45vh;
         left:0;
-        right:0;
-        padding:20px 30px;
+        right:0; */
+        margin:6% 7.1% 0 0;
+        padding:20px 36px;
         border-radius:0 0 20px 20px;
         transition: visibility 1s;
     }
 
     .container ul li ul li{
-        margin:0 0px;
+        margin:0 15px;
     }
 
     .container .triangle{
