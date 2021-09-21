@@ -210,7 +210,7 @@ body{
     .container ul li ul{
         width:100%;
         margin:15% 6.9% 0 0;
-        padding:20px 38px;
+        padding:20px 20px;
         border-radius:0 0 20px 20px;
         transition: visibility 1s;
     }
